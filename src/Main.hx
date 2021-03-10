@@ -68,7 +68,6 @@ class Model {
 
 class Main {
 	static function main() {
-		trace("test");
 		var view = new View();
 		var a = new Presenter(view);
 		view.OnHelloInput();
