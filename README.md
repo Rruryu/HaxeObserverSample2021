@@ -1,9 +1,6 @@
 # Haxe project
+下記のおぶざーばーぱたーんをHaxe ver4.0に対応させたやつです。
+https://code.haxe.org/category/design-patterns/observer.html
 
-This is an example Haxe project scaffolded by Visual Studio Code.
-
-Without further changes the structure is following:
-
- * `src/Main.hx`: Entry point Haxe source file
- * `build.hxml`: Haxe command line file used to build the project
- * `README.md`: This file
+うぇぶこんぱいら 
+https://try.haxe.org/embed/1a8FF654#code1
