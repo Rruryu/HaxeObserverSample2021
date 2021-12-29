@@ -1,6 +1,6 @@
 # Haxe project
-下記のおぶざーばーぱたーんをHaxe ver4.0に対応させたやつです。  
+下記のオブザーバーパターンをHaxe ver4.0に対応させました
 https://code.haxe.org/category/design-patterns/observer.html
 
-うぇぶこんぱいら   
+ウェブコンパイラ
 https://try.haxe.org/embed/1a8FF654#code1
