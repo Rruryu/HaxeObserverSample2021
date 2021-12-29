@@ -1,5 +1,5 @@
 # Haxe project
-下記のオブザーバーパターンをHaxe ver4.0に対応させましたものです。  
+下記のオブザーバーパターンをHaxe ver4.0に対応したものです。  
 https://code.haxe.org/category/design-patterns/observer.html
 
 ウェブコンパイラ  
